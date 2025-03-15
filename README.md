@@ -18,7 +18,14 @@ The following **required** functionality is completed:
 - [X] Added a switch to controls that image
  
 ## Video Walkthrough
-(https://www.loom.com/share/4d4b16f8236943d9a4f599732b646704?sid=cd41ab7f-cb90-4072-9cbb-99c36199b22d)
+<div>
+    <a href="https://www.loom.com/share/80f2cc1cfca241e199c9e6b1095516e9">
+     Loom
+    </a>
+    <a href="https://www.loom.com/share/80f2cc1cfca241e199c9e6b1095516e9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/80f2cc1cfca241e199c9e6b1095516e9-98ed9a34652b5d11-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 1. X
